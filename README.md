@@ -6,5 +6,5 @@ Ce répertoire se destine à rendre visible les flux d'argent associés à la 'p
 
 ## Biennale de Design (V1)
 
-* La MYNE
-* OpenFactory
+* Suivi du budhet de La MYNE
+* Suivi du budhet OpenFactory
