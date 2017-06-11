@@ -4,8 +4,6 @@
 
 Ce répertoire se destine à rendre visible les flux d'argent associés à la 'production' d'une exposition Fork The World. 
 
----
-
 ## Biennale de Design (V1)
 
 * La MYNE
